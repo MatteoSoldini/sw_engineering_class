@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Branch");
+        System.out.println("Fixing issue");
     }
 }
