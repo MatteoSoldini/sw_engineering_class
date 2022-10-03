@@ -1,1 +1,1 @@
-# sw_engineering_class
+# Software Engineering class
